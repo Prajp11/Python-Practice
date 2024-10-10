@@ -16,3 +16,4 @@ expanded_custom = string_with_tabs.expandtabs(4)
 print("Original string:", string_with_tabs)
 print("Expanded with default tab size (8 spaces):", expanded_default)
 print("Expanded with custom tab size (4 spaces):", expanded_custom)
+
